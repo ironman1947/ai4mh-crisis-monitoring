@@ -1,0 +1,30 @@
+{
+  "Jefferson County": {
+    "population": 674721,
+    "baseline_sentiment": -0.18,
+    "baseline_daily_posts": 85,
+    "adjacent_counties": ["Shelby County", "Blount County", "St. Clair County"],
+    "is_rural": false
+  },
+  "Shelby County": {
+    "population": 230854,
+    "baseline_sentiment": -0.12,
+    "baseline_daily_posts": 42,
+    "adjacent_counties": ["Jefferson County", "Chilton County", "Coosa County"],
+    "is_rural": false
+  },
+  "Blount County": {
+    "population": 59134,
+    "baseline_sentiment": -0.20,
+    "baseline_daily_posts": 18,
+    "adjacent_counties": ["Jefferson County", "Marshall County", "Etowah County"],
+    "is_rural": true
+  },
+  "Wilcox County": {
+    "population": 10373,
+    "baseline_sentiment": -0.22,
+    "baseline_daily_posts": 4,
+    "adjacent_counties": ["Dallas County", "Marengo County", "Monroe County"],
+    "is_rural": true
+  }
+}

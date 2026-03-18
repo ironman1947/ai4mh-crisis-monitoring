@@ -1,0 +1,56 @@
+[
+  {
+    "post_id": "mock_001",
+    "county": "Jefferson County",
+    "subreddit": "mentalhealth",
+    "text": "I just can't cope with everything anymore. Feeling completely hopeless.",
+    "timestamp": "2026-03-18T09:14:22",
+    "account_age_days": 340,
+    "upvotes": 12
+  },
+  {
+    "post_id": "mock_002",
+    "county": "Jefferson County",
+    "subreddit": "depression",
+    "text": "Nobody understands what I'm going through. Don't want to be here anymore.",
+    "timestamp": "2026-03-18T10:02:45",
+    "account_age_days": 180,
+    "upvotes": 8
+  },
+  {
+    "post_id": "mock_003",
+    "county": "Jefferson County",
+    "subreddit": "SuicideWatch",
+    "text": "Thinking about ctb. Everything feels pointless.",
+    "timestamp": "2026-03-18T11:30:10",
+    "account_age_days": 520,
+    "upvotes": 3
+  },
+  {
+    "post_id": "mock_004",
+    "county": "Jefferson County",
+    "subreddit": "mentalhealth",
+    "text": "Had a great day today! Feeling much better after therapy.",
+    "timestamp": "2026-03-18T13:45:00",
+    "account_age_days": 210,
+    "upvotes": 45
+  },
+  {
+    "post_id": "mock_005",
+    "county": "Shelby County",
+    "subreddit": "depression",
+    "text": "Relapsed again. Can't stop using. I don't know what to do.",
+    "timestamp": "2026-03-18T08:20:33",
+    "account_age_days": 90,
+    "upvotes": 6
+  },
+  {
+    "post_id": "mock_006",
+    "county": "Shelby County",
+    "subreddit": "mentalhealth",
+    "text": "Looking for mental health resources near me. Reaching out for help.",
+    "timestamp": "2026-03-18T14:10:00",
+    "account_age_days": 150,
+    "upvotes": 22
+  }
+]
